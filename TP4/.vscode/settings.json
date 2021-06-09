@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.lex": "lex",
+        "*.tpc": "c",
+        "*.asm": "platformio-debug.asm",
+        "stdio.h": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "typeinfo": "c",
+        "wait.h": "c"
+    }
+}
